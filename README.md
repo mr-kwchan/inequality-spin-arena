@@ -1,5 +1,9 @@
 # 不等式旋鬥場 v1.1
 
+![不等式旋鬥場封面](cover.png)
+
+[封面圖片直連（供數自學基地使用）](https://mr-kwchan.github.io/inequality-spin-arena/cover.png)
+
 以複合一元一次不等式為陀螺補血、取得護盾及儲存必殺技能量的 Three.js 3D 教育遊戲。單人可在家挑戰 NPC，亦可兩人共用一部橫向 iPad 對戰。
 
 **[立即遊玩](https://mr-kwchan.github.io/inequality-spin-arena/)** · 毋須登入
